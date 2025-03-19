@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm like a pudding cup, with a little bit of everything. JK I'm a fullstack developer <br>Top priority is becoming a better version of the developer I am(The journey to mastery never truly ends) 🔥<br>-❓Open to Tech,anime, general life typa discussions<br>- ⚡ </p>
+<p align="left">I'm like a pudding cup, with a little bit of everything. JK I'm a fullstack developer <br>Top priority is becoming a better version of the developer I am(The journey to mastery never truly ends) 🔥<br>❓Open to Tech,anime, general life typa discussions<br>-  ⚡  -  </p>
 
 ###
 
