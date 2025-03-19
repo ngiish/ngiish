@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm  a passionate fullstack developer in the exciting world of tech<br>-🔭Currently learning Dart and Flutter<br>-❓Ask me anything about Flask,React and other related technologies<br>- ⚡ In my free time I code, code, code... or play some five aside football</p>
+<p align="left">I'm like a pudding cup, with a little bit of everything. JK I'm a fullstack developer <br>Top priority is becoming a better version of the developer I am(The journey to mastery never truly ends) 🔥<br>-❓Open to Tech,anime, general life typa discussions<br>- ⚡ </p>
 
 ###
 
